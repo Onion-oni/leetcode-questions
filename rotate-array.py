@@ -1,4 +1,5 @@
-#Rotate Array
+#189. Rotate Array
+#Rotates an array to the right by 'k' steps
 def rotate(nums,k):
     f = 0
     while f < k:
